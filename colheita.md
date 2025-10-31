@@ -5,7 +5,7 @@
 Primeira versão jogável do projeto feito em Unity.
 
 ## 📥 Download
-➡️ [Clique aqui para baixar a versão para Windows](https://github.com/joao16mariano/Jogo-2D-Unity/releases/download/v1.2/Jogo2DMariano.rar)
+➡️ [Clique aqui para baixar a versão para Windows](https://github.com/joao16mariano/Unity-Colheita/archive/refs/tags/v1.0.zip)
 
 ## 🚀 Como jogar
 1. quando clicar no link acima baixe o arquivo Unity.exe.
