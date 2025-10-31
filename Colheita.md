@@ -1,6 +1,6 @@
 
 
-# 🎮 Jogo 2D - João Mariano
+# 🎮 Jogo 2D - à Fazenda
 
 Primeira versão jogável a fazenda feito em Unity.
 
