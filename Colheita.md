@@ -2,7 +2,7 @@
 
 # 🎮 Jogo 2D - João Mariano
 
-Primeira versão jogável do projeto feito em Unity.
+Primeira versão jogável a fazenda feito em Unity.
 
 ## 📥 Download
 ➡️ [Clique aqui para baixar a versão para Windows](https://github.com/joao16mariano/Unity-Colheita/releases/download/v1.0/JOGO.rar)
@@ -10,7 +10,7 @@ Primeira versão jogável do projeto feito em Unity.
 ## 🚀 Como jogar
 1. quando clicar no link acima baixe o arquivo Unity.exe.
 2. Extraia o `.rar` em uma pasta no seu computador.
-3. Clique em **2d Unity Mariano.exe** para iniciar o jogo.
+3. Clique em **Happy Harvest - 2D Sample Projeto.exe** para iniciar o jogo.
 4. 
 ## 🚀 INSTRUÇÔES
 [https://quarto-4328c.web.app/principal.html.](https://tutorial-1ad5a.web.app).
@@ -29,21 +29,10 @@ A → Move para esquerda ⬅️
 
 D → Move para direita ➡️
 
-S → Abaixa ⬇️
+S → Move para trás ⬇️
 
-O → Atira 🔫
+w → Move pa frente 🔫
 
-K → Destrói 💥
-
-🏆 Pontuação
-
-💰 Moeda: +10 pontos
-
-🍎 Maçã: +20 pontos
-
-🍊 Laranja: +30 pontos
-
-🍇 Uva: +40 pontos
 
 ## ℹ️ Informações
 - Desenvolvido em **Unity**  
