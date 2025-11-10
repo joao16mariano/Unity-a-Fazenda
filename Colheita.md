@@ -5,7 +5,7 @@
 Primeira versão jogável a fazenda feito em Unity.
 
 ## 📥 Download
-➡️ [Clique aqui para baixar a versão para Windows](https://github.com/joao16mariano/Unity-Colheita/releases/download/v1.0/JOGO.rar)
+➡️ [Clique aqui para baixar a versão para Windows](https://github.com/joao16mariano/Unity-a-Fazenda/releases/download/v1.0/JOGO.rar)
 
 ## 🚀 Como jogar
 1. quando clicar no link acima baixe o arquivo Unity.exe.
